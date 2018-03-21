@@ -1,0 +1,12 @@
+body {
+  font-family: 'Lobster', cursive;
+
+}
+
+.jumbotron {
+  background-color: cyan;
+}
+
+h1 {
+  text-align: center;
+}
